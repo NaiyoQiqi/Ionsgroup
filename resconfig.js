@@ -31,7 +31,7 @@ const config = {
     prefix 			: true,
     anticall        : false, // true = aktif || false = tidak aktif
     publik 			: true,
-    audio_menu      : true,
+    audio_menu      : false,
     autoread 		: false,
     antitoxic 		: true,
     savekontak		: {
