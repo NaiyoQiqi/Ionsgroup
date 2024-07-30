@@ -25,7 +25,7 @@ const config = {
     limit_tunggu 	: 10, // ini menit = 10 menit setiap setelah claim
     MoneyMenangGame : 20,
     ratelimiter 	: 1, // detik
-    prefix_custom   : [''],
+    prefix_custom   : ['#','!','.'],
     dalamdetik		: 1, // ini adalah waktu couldown dalamdetik
     chatmasuk 		: 1, // ini adalah jumlah chat maxsimum {dalamdetik}
     prefix 			: true,
